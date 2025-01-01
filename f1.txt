@@ -1,2 +1,1 @@
 This is f1 file data
-// This is f1 file data second line
